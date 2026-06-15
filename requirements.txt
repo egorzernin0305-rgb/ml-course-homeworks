@@ -8,3 +8,5 @@ lightgbm
 catboost
 xgboost
 shap
+umap-learn
+
